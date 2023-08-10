@@ -2,6 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitter3&label=Profile%20views&color=0e75b6&style=flat" alt="pitter3" /> </p>
 
+<p>I'm a versatile individual with a diverse background that encompasses acting, competitive video gaming, and experience in the service industry. As life unfolded, I discovered my passion for programming, which led me to explore the captivating world of web development. Currently, I'm deeply engrossed in studying programming.
+
+In the past, my journey as an actor honed my communication skills and creativity, while my time in the competitive gaming scene sharpened my problem-solving abilities and teamwork. The service industry taught me the value of customer satisfaction and adaptability.
+
+As I delved into programming, I found myself enthralled by its limitless potential to create innovative solutions. Whether it's crafting intuitive user interfaces or building efficient algorithms, I relish every challenge that comes my way.
+
+Apart from my passion for programming, I find joy in playing poker—a game that not only demands strategic thinking but also reveals insights into human psychology.
+
+I am on a continuous quest for knowledge, exploring new technologies and development frameworks to enhance my skills. I believe that every project is an opportunity to learn, grow, and make a positive impact.
+
+Feel free to explore my LinkedIn profile and connect with me to share ideas, discuss opportunities, or just geek out about coding or poker. Let's connect and create something remarkable together!</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/patrick-eitel-422339233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-eitel-422339233" height="30" width="40" /></a>
