@@ -9,10 +9,7 @@ In the past, my journey as an actor honed my communication skills and creativity
 As I delved into programming, I found myself enthralled by its limitless potential to create innovative solutions. Whether it's crafting intuitive user interfaces or building efficient algorithms, I relish every challenge that comes my way.
 
 Apart from my passion for programming, I find joy in playing poker—a game that not only demands strategic thinking but also reveals insights into human psychology.
-
-I am on a continuous quest for knowledge, exploring new technologies and development frameworks to enhance my skills. I believe that every project is an opportunity to learn, grow, and make a positive impact.
-
-Feel free to explore my LinkedIn profile and connect with me to share ideas, discuss opportunities, or just geek out about coding or poker. Let's connect and create something remarkable together!</p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
